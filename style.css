@@ -1,0 +1,74 @@
+body {
+  background-color: #09008a;
+  min-height: 2900px;
+}
+
+.navbar {
+  background-color: rgb(92, 1, 110);
+}
+
+.jumbotron {
+  padding-top: 100px;
+  background-color: rgb(183, 0, 219);
+}
+
+.aboutt {
+  color: black;
+  padding-top: 80px;
+}
+
+.para {
+  color: black;
+  text-align: justify;
+}
+
+#projects {
+  background-color: rgb(183, 0, 219);
+  padding-bottom: 10px;
+  padding-top: 80px;
+}
+
+.card {
+  background-color: black;
+  color: white;
+}
+
+#contact {
+  color: gold;
+  background-color: #09008a;
+  margin-top: -20px;
+}
+
+#contact form {
+  font-weight: bold;
+  color: gold;
+}
+
+#contact .btn {
+  background-color: #0d00ca;
+  border: 2px solid black;
+  color: gold;
+  border-radius: 15px;
+  font-weight: 600;
+}
+
+footer {
+  background-color: rgb(92, 1, 110);
+  text-align: center;
+  padding-bottom: 5px;
+  font-weight: 600;
+  color: black;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: gold;
+}
+
+footer i {
+  color: red;
+}
